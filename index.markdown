@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+{{ "This is the personal website of a Java developer" }}
